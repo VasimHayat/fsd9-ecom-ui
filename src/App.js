@@ -3,12 +3,14 @@ import logo from './assets/images/logo/logo.svg';
 import './App.css';
 import Header from './pages/header/Header';
 import UserLogin from './pages/auth/user-auth/login/UserLogin';
+import SignInSide from './pages/auth/seller-auth/seller.login';
 
 function App() {
   return (
     <div className="App">
       <Header></Header>
-      <UserLogin></UserLogin>
+      <SignInSide></SignInSide>
+      {/* <UserLogin></UserLogin> */}
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>

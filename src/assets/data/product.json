@@ -1,0 +1,200 @@
+[{
+    "products": [
+      {
+        "category": "Electronics",
+        "name": "Smartphone X",
+        "uid": "P001",
+        "price": 799.99,
+        "description": "A high-end smartphone with cutting-edge features."
+      },
+      {
+        "category": "Electronics",
+        "name": "Laptop Pro",
+        "uid": "P002",
+        "price": 1299.99,
+        "description": "Powerful laptop for professional use."
+      },
+      {
+        "category": "Electronics",
+        "name": "Digital Camera 2023",
+        "uid": "P003",
+        "price": 899.99,
+        "description": "Capture stunning moments with this advanced camera."
+      },
+      {
+        "category": "Electronics",
+        "name": "Wireless Headphones",
+        "uid": "P004",
+        "price": 149.99,
+        "description": "Immerse yourself in music with these high-quality headphones."
+      },
+      {
+        "category": "Electronics",
+        "name": "Smartwatch Active",
+        "uid": "P005",
+        "price": 249.99,
+        "description": "Stay connected and track your fitness goals with this smartwatch."
+      },
+      {
+        "category": "Clothing and Apparel",
+        "name": "Men's Casual Shirt",
+        "uid": "P101",
+        "price": 49.99,
+        "description": "Comfortable and stylish shirt for everyday wear."
+      },
+      {
+        "category": "Clothing and Apparel",
+        "name": "Women's Evening Dress",
+        "uid": "P102",
+        "price": 129.99,
+        "description": "Elegant dress for special occasions."
+      },
+      {
+        "category": "Clothing and Apparel",
+        "name": "Running Shoes",
+        "uid": "P103",
+        "price": 79.99,
+        "description": "Durable and comfortable shoes for active lifestyles."
+      },
+      {
+        "category": "Clothing and Apparel",
+        "name": "Leather Wallet",
+        "uid": "P104",
+        "price": 29.99,
+        "description": "Classic wallet with multiple card slots and compartments."
+      },
+      {
+        "category": "Home and Furniture",
+        "name": "Modern Sofa",
+        "uid": "P201",
+        "price": 899.99,
+        "description": "Sleek and comfortable sofa for your living room."
+      },
+      {
+        "category": "Home and Furniture",
+        "name": "Queen-size Bed",
+        "uid": "P202",
+        "price": 1099.99,
+        "description": "Elegant bed frame for a good night's sleep."
+      },
+      {
+        "category": "Home and Furniture",
+        "name": "Wooden Dining Table",
+        "uid": "P203",
+        "price": 499.99,
+        "description": "Sturdy table for family gatherings and meals."
+      },
+      {
+        "category": "Home and Furniture",
+        "name": "Kitchen Blender",
+        "uid": "P204",
+        "price": 79.99,
+        "description": "Efficient blender for smoothies and food preparation."
+      },
+      {
+        "category": "Beauty and Personal Care",
+        "name": "Anti-Aging Serum",
+        "uid": "P301",
+        "price": 39.99,
+        "description": "Revitalize your skin with this powerful anti-aging serum."
+      },
+      {
+        "category": "Beauty and Personal Care",
+        "name": "Men's Grooming Kit",
+        "uid": "P302",
+        "price": 49.99,
+        "description": "Complete kit for grooming and skincare."
+      },
+      {
+        "category": "Beauty and Personal Care",
+        "name": "Fragrance Gift Set",
+        "uid": "P303",
+        "price": 69.99,
+        "description": "Exquisite set of fragrances for men and women."
+      },
+      {
+        "category": "Beauty and Personal Care",
+        "name": "Professional Hair Dryer",
+        "uid": "P304",
+        "price": 89.99,
+        "description": "Powerful hair dryer for salon-quality results at home."
+      },
+      {
+        "category": "Books",
+        "name": "Bestseller Novel",
+        "uid": "P401",
+        "price": 19.99,
+        "description": "Engaging novel that has topped the charts."
+      },
+      {
+        "category": "Books",
+        "name": "Cookbook for Beginners",
+        "uid": "P402",
+        "price": 29.99,
+        "description": "Step-by-step guide to cooking delicious meals."
+      },
+      {
+        "category": "Toys",
+        "name": "Building Blocks Set",
+        "uid": "P501",
+        "price": 29.99,
+        "description": "Educational and fun building blocks for kids."
+      },
+      {
+        "category": "Toys",
+        "name": "Remote-Controlled Car",
+        "uid": "P502",
+        "price": 49.99,
+        "description": "Zoom around with this exciting remote-controlled car."
+      }
+    ]
+  },
+
+  
+  {
+    "products": [
+      {
+        "category": "Electronics",
+        "name": "Smartphone X",
+        "uid": "P001",
+        "price": 799.99,
+        "description": "A high-end smartphone with cutting-edge features.",
+        "keyFeatures": [
+          "6.5 inch Super AMOLED display",
+          "Snapdragon 888 processor",
+          "12GB RAM, 256GB storage",
+          "Quad-camera setup" 
+        ],
+        "imageURL": "https://example.com/smartphone_x.jpg"
+      },
+      {
+        "category": "Electronics",
+        "name": "Laptop Pro",
+        "uid": "P002",
+        "price": 1299.99,
+        "description": "Powerful laptop for professional use.",
+        "keyFeatures": [
+          "15.6 inch 4K display",
+          "Intel i9 processor",
+          "32GB RAM, 1TB SSD",
+          "Dedicated GPU"
+        ],
+        "imageURL": "https://example.com/laptop_pro.jpg"
+      },
+ 
+      {
+        "category": "Toys",
+        "name": "Remote-Controlled Car",
+        "uid": "P502",
+        "price": 49.99,
+        "description": "Zoom around with this exciting remote-controlled car.",
+        "keyFeatures": [
+          "Wireless remote control",
+          "Top speed of 20mph",
+          "Rechargeable battery"
+        ],
+        "imageURL": "https://example.com/rc_car.jpg"
+      }
+    ]
+  }
+]
